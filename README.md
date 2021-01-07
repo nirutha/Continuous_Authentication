@@ -71,7 +71,7 @@ jupyter serverextension enable --py jupyterlab_code_formatter
 jupyter lab
 ```
 **Data download**
-The preprocessed data folder is available under google drive https://drive.google.com/file/d/1rqZ28o8Gelkaq7NSdBBcMzAEZcXeE1Ow/view?usp=sharing due to size constraints could not be uploaded on blackboard. Extract the hmog_dataset.hdf5.zip to the folder /data/processed/ for further executions.
+The preprocessed data folder is available under google drive https://drive.google.com/file/d/1rqZ28o8Gelkaq7NSdBBcMzAEZcXeE1Ow/view?usp=sharing. Extract the hmog_dataset.hdf5.zip to the folder /data/processed/ for further executions.
 
 **Run exploration-hmog-statistics.ipynb:**
 The notebook contains detailed description of Hmog dataset and data processing steps for creating the scenarios.
